@@ -26,6 +26,23 @@ No delegate may hold more than one office at a time.
 
 ## Meetings
 
+### Regular Meetings
+
+The regular meetings of the Labor Council shall be held on the first Wednesday of each month.
+
+### Annual Meetings
+
+The regular meeting on the first Wednesday of December shall be known as the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and for any other business that may arise.
+
+### Special Meetings
+
+Special meetings may be called by the President or by the Executive Board and shall be called upon the writen request of **SOME NUMBER OF DELEGATES/AFFILIATES** of the Labor Council.
+The purpose of the meeting shall be stated in the call, which shall be sent to all affiliates and their delegates at least five business days before the meeting.
+
+### Quorum
+
+**SOME NUMBER OF DELEGATES/AFFILIATES** shall constitute a quorum.
+
 ## Executive Board
 
 ## Committees
