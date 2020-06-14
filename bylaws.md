@@ -64,6 +64,18 @@ Special meetings of the Board may be called by the President and shall be called
 
 ## Committees
 
+### Election Committee
+
+### Ethical Practices Committee
+
+### Committee on Political Education
+
+### Other Committees; President's Ex-Officio Committee Membership
+
+Such other committees, standing or special, may be established by the Labor Council as it shall from time to time deem necessary to carry on its work.
+Their members shall be appointed by the President unless this rule is suspended by a two-thirds vote before their appointment.
+The President shall be ex officio a member of all committees except disciplinary committees.
+
 ## Parliamentary Authority
 
 The rules contained in the current edition of *Robert's Rules of Order Newly Revised* shall govern the Labor Council in all cases to which they are applicable and in which they are not inconsistent with the rules and policies of the AFL-CIO and with these bylaws and any special rules of order the Labor Council may adopt.
