@@ -45,6 +45,23 @@ The purpose of the meeting shall be stated in the call, which shall be sent to a
 
 ## Executive Board
 
+### Composition
+
+The officers of the Labor Council shall constitute the Executive Board.
+
+### Duties & Powers
+
+The Executive Board shall have general supervision of the affairs of the Labor Council between its business meetings, fix the hour and place of the meetings, make recommendations to the Labor Council, and perform such other duties as are speciied in these bylaws.
+
+### Board Meetings
+
+Regular meetings of the Executive Board shall be held on the last Monday of each month.
+Special meetings of the Board may be called by the President and shall be called upon the written request of **SOME NUMBER OF OFFICERS**.
+
+### Quorum of the Board
+
+**SOME NUMBER OF OFFICERS** shall constitute a quorum for meetings of the Executive Board.
+
 ## Committees
 
 ## Parliamentary Authority
