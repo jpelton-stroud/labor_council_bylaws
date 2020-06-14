@@ -8,6 +8,22 @@
 
 ## Officers
 
+### Officers & Duties
+
+The officers of the Labor Council shall be
+    a President,
+    a First Vice President,
+    a Second Vice President,
+    a Secretary,
+    a Treasurer,
+    a Sergeant-at-Arms,
+    and six Trustees.
+These officers shall perform the duties prescribed by the rules and policies of the AFL-CIO, and by these bylaws, and by the Parliamentary Authority adopted by the Labor Council.
+
+### Office-Holding Limitations
+
+No delegate may hold more than one office at a time.
+
 ## Meetings
 
 ## Executive Board
